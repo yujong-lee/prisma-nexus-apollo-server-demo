@@ -1,5 +1,5 @@
 # Prisma-Nexus-Apollo-Server-Demo
-Simple GraphQL server demo with filtering, sorting, and limit-offset-pagination using Prisma, Nexus, and Apollo.
+Simple GraphQL server demo with authentication, filtering, sorting, and limit-offset-pagination using Prisma, Nexus, and Apollo.
 
 ## Generate Prisma Client
 ```shell
